@@ -1,5 +1,7 @@
 
 .venv
+results/
+lora_adappter/
 =*
 
-Tamazight_QLoRA_Finetuning.ipynb
+.ipynb_checkpoints

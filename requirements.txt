@@ -1,0 +1,12 @@
+torch
+torchvision
+torchao>=0.16
+transformers>=4.41
+peft>=0.11
+trl>=0.9
+accelerate>=0.31
+datasets>=2.19
+pandas
+tqdm
+gguf
+sentencepiece
