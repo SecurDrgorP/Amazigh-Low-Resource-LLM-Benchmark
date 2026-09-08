@@ -1,7 +1,7 @@
 
 .venv
-results/
 lora_adapter/
+results/
 =*
 
 .ipynb_checkpoints
