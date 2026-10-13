@@ -1,7 +1,3 @@
 
 .venv
-lora_adapter/
-results/
-=*
-
 .ipynb_checkpoints
